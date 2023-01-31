@@ -60,11 +60,10 @@
     <a href="https://open.spotify.com/user/ck8o1p0igjx8qx6ttjg826re8?si=269d1c434ddf42a1" target="_blank">
     <img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white alt=spotfy style="margin-bottom: 5px;" />
     </a>
-    
+
     <a href="https://br.pinterest.com/gabriel_molezini/" target="_blank">
     <img src=https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white alt=pinterest style="margin-bottom: 5px;" />
     </a>  
-    
     
 
 </br></br>
