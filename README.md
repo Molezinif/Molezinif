@@ -6,7 +6,7 @@
 
 <img align="right" width="400" height="800" alt="pochita" src="https://i.imgur.com/Jnv9cz4.jpeg"/>
 
-<h2> / about me /</h2>
+<h2>  about me </h2>
   
 - ⭐ currently working on **frontend-development**
 - 💀 new **adventurer**
@@ -15,7 +15,7 @@
 - 📫 How to reach me **gabrielmolezinif@gmail.com**
 - 🚀 working to be full stack!
   
-<h2> / current skills / </h2>
+<h2>  current skills  </h2>
   
 - <h3> languages </h3>
   <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt = "python" />
@@ -38,7 +38,7 @@
   <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
 
-<h2> / hobbies / </h2>
+<h2>  hobbies  </h2>
   
 - <h3> games </h3>
   <img src = "https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" alt = "val" />
