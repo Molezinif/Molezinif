@@ -1,5 +1,3 @@
-</br></br>
-
 <h1>  ☀️ Hi! Im Gabriel Molezini ☀️  </h2>
 
 </br>
