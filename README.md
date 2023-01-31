@@ -4,7 +4,7 @@
 
 <div>
 
-<img align="right" width="400" height="850" alt="pochita" src="https://i.imgur.com/Jnv9cz4.jpeg"/>
+<img align="right" width="400" height="900" alt="pochita" src="https://i.imgur.com/Jnv9cz4.jpeg"/>
 
 <h2>  about me </h2>
   
