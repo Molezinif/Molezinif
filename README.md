@@ -13,6 +13,7 @@
 - 👾 a **student** working his way around things
 - ♨️ 18 years old
 - 📫 How to reach me **gabrielmolezinif@gmail.com**
+- 🚀 working to be full stack!
   
 <h2> / current skills / </h2>
   
