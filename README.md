@@ -58,9 +58,6 @@
     </a>
     <a href="https://www.linkedin.com/in/gabriel-programmer/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-    <a href="https://cursos.alura.com.br/user/gabrielmolezinif" target="_blank">
-    <img src=https://i.imgur.com/BVxIoJ7.png alt=pinterest style="margin-bottom: 5px; height: 28px" />
-    </a>
     </a>
     <a href="https://open.spotify.com/user/ck8o1p0igjx8qx6ttjg826re8?si=269d1c434ddf42a1" target="_blank">
     <img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white alt=spotfy style="margin-bottom: 5px;" />
