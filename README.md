@@ -8,7 +8,7 @@
 
 <h2>  🌱about me🌱 </h2>
   
-- ⭐ currently working on **frontend-development**
+- ⭐ currently working on **backend-development**
 - 💀 new **adventurer**
 - 👾 a **student** working his way around things
 - ♨️ 18 years old
