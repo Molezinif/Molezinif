@@ -11,7 +11,7 @@
 - ⭐ currently working on **backend-development**
 - 💀 new **adventurer**
 - 👾 a **student** working his way around things
-- ♨️ 18 years old
+- ♨️ 19 years old
 - 📫 How to reach me **gabrielmolezinif@gmail.com**
   
 <h2>  🚀current skills🚀  </h2>
